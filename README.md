@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @jonconley
-- 👀 I’m interested in ... devops, apis, automation, golang, powershell
-- 🌱 I’m currently learning ... kubernetes
+- 👀 I’m interested in ... devops, apis, automation, python, powershell
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... 
   - any application focused around the interests or learning above 
-  - applications focused on food availability logistics
-  - increasing transparency of anything
-  - optimizing our potential via health or wellness.
+    - applications focused on food availability logistics
+    - increasing transparency of anything
+    - optimizing our potential via health or wellness.
 - 📫 How to reach me ... github@codetocope.com 
 
 <!---
